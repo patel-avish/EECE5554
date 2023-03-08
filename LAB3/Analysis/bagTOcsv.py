@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[1]:
-
-
 import bagpy
 from bagpy import bagreader
 import matplotlib.pyplot as plt
@@ -35,10 +31,3 @@ data_3 = pd.read_csv(message_3)
 data_4 = pd.read_csv(message_4)
 data_5 = pd.read_csv(message_5)
 data_6 = pd.read_csv(message_6)
-
-
-# In[ ]:
-
-
-
-
